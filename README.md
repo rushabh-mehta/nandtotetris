@@ -24,5 +24,5 @@ Coded the following boolean functions in HDL:
 14. DMux4Way
 15. DMux8Way
 
-We assume that Nand is the fundamental building block and abstract away the implementation of Nand and use it as a starting point.
-Once we develop a function we can use it to develop another functions (For e.g. once Not is developed it can be used to create And).
+We assume that Nand is the fundamental building block and use it as a starting point by abstracting away the implementation of Nand.<br>
+Once we develop a function we can use it to develop another functions (For e.g. once Not is developed it can be used to create And).<br>
