@@ -7,7 +7,7 @@ This repo is the collection of all the projects of the course NandtoTetris. <br>
 We assume that Nand is the fundamental building block and use it as a starting point by abstracting away the implementation of "Nand".<br>
 Once we design a function we can use it to design another functions (For e.g. once "Not" is designed it can be used to create "And").<br>
 
-## Week 1 [Boolean_logic_functions_1](https://github.com/rushabh-mehta/nandtotetris/tree/master/Boolean_logic_functions_1)
+## Week 1 - [Boolean_logic_functions_1](https://github.com/rushabh-mehta/nandtotetris/tree/master/Boolean_logic_functions_1)
 Designed following boolean functions in HDL:
 1. Not
 2. And
