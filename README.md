@@ -4,10 +4,11 @@ This repo is the collection of all the projects of the course NandtoTetris. <br>
 [Website Link](https://www.nand2tetris.org/software) <br>
 [Coursera Link](https://www.coursera.org/learn/build-a-computer/home/welcome) <br>
 
----
-## Week 1
+We assume that Nand is the fundamental building block and use it as a starting point by abstracting away the implementation of "Nand".<br>
+Once we design a function we can use it to design another functions (For e.g. once "Not" is designed it can be used to create "And").<br>
 
-Coded the following boolean functions in HDL:
+## Week 1
+Designed following boolean functions in HDL:
 1. Not
 2. And
 3. Or
@@ -24,5 +25,3 @@ Coded the following boolean functions in HDL:
 14. DMux4Way
 15. DMux8Way
 
-We assume that Nand is the fundamental building block and use it as a starting point by abstracting away the implementation of Nand.<br>
-Once we develop a function we can use it to develop another functions (For e.g. once Not is developed it can be used to create And).<br>
