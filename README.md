@@ -30,4 +30,4 @@ Designed following boolean functions in HDL:
 
 ALU diagram             | ALU truth table
 :-------------------------:|:-------------------------:
-<img  src="https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_diagram.png" width="100%" height="70%"> | <img src="https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_truth_table.png" width="100%" height="70%"> 
+<img  src="https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_diagram.png" width="100%" height="60%"> | <img src="https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_truth_table.png" width="100%" height="60%"> 
