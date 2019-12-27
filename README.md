@@ -28,7 +28,7 @@ Designed following boolean functions in HDL:
 1. Designed a Half Adder, Full Adder and a 16 bit ripple carry adder.
 2. Designed an ALU for the 16 bit HACK computer which has the following functionalities.
 
-[ALU Diagram](https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_diagram.png)
+![ALU Diagram](https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_diagram.png)
 
-[ALU truth table](https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_truth_table.png)
+![ALU truth table](https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_truth_table.png)
 
