@@ -21,7 +21,7 @@ Designed following boolean functions in HDL:
 6. DMux    12. Mux4Way16
 </pre>
 
-## Week 2 - [Arithmetic logic unit_2](https://github.com/rushabh-mehta/nandtotetris/tree/master/Arithmetic_logic_unit_2)
+## Week 2 - [Arithmetic_logic_unit_2](https://github.com/rushabh-mehta/nandtotetris/tree/master/Arithmetic_logic_unit_2)
 <pre>
 1. Designed a Half Adder, Full Adder and a 16 bit ripple carry adder.
 2. Designed an ALU for the 16 bit HACK computer which has the following functionalities.
