@@ -6,7 +6,7 @@ This repo is the collection of all the projects of the course NandtoTetris. <br>
 
 ## Installation instructions
 
-Install the software suite containing all the necessary project tools and guideline from [here](https://drive.google.com/file/d/1KcFPj8KQ_QAHheFmLCqs5iqC_0NCndvs/view).
+Install the software suite containing all the necessary project tools and guidelines from [here](https://drive.google.com/file/d/1KcFPj8KQ_QAHheFmLCqs5iqC_0NCndvs/view).
 
 ## Week 1 - [Boolean_logic_functions_1](https://github.com/rushabh-mehta/nandtotetris/tree/master/Boolean_logic_functions_1)
 We assume that Nand is the fundamental building block and use it as a starting point by abstracting away the implementation of "Nand".<br>
@@ -30,4 +30,4 @@ Designed following boolean functions in HDL:
 
 ALU diagram             | ALU truth table
 :-------------------------:|:-------------------------:
-<img  src="https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_diagram.png" width="100%" height="100%"> | <img src="https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_truth_table.png" width="100%" height="100%"> 
+<img  src="https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_diagram.png" width="100%" height="70%"> | <img src="https://github.com/rushabh-mehta/nandtotetris/blob/master/static/Hack_alu_truth_table.png" width="100%" height="70%"> 
